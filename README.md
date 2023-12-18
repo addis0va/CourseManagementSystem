@@ -44,10 +44,6 @@ The Course Management System is a Java-based application developed for managing 
 
 <img width="751" alt="Снимок экрана 2023-12-18 125952" src="https://github.com/addis0va/CourseManagementSystem/assets/145701744/6782b3ee-a1ac-4976-9934-1fb171e88565">
 
-
-## Commit History
-
-
 ## Suggestions:
 
 1. Double-check the image URLs in the "Screenshots" section to ensure they are correct.
