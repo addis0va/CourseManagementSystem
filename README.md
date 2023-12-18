@@ -28,6 +28,8 @@ The Course Management System is a Java-based application developed for managing 
 - [Adisova Nurgul]: Responsible for the database and backend development.
 - [Ainazik Bakytbek]: Frontend development and user interface design.
 - [Myskal Anarbekova]: System testing and documentation.
+## Guid For Java
+[Totorial for Course MAnagement System](https://youtu.be/ir_rlZ8zJv0)
 
 ## Screenshots
 <img width="770" alt="Снимок экрана 2023-12-18 125141" src="https://github.com/addis0va/CourseManagementSystem/assets/145701744/fc33a856-9f01-4ec7-8947-0793bd2c1516">
